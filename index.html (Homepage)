@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free Online PDF Tools</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <h1>Your PDF Toolkit</h1>
+    <div class="tool-grid">
+        <a href="/image-to-pdf" class="tool-card">
+            <h3>Image to PDF</h3>
+            <p>Convert JPG/PNG → PDF</p>
+        </a>
+    </div>
+</body>
+</html>
